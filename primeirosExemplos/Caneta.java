@@ -1,4 +1,3 @@
-package primeirosExemplos;
 public class Caneta {
     public String modelo;
     public String cor;

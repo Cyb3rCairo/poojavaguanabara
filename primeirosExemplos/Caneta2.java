@@ -1,4 +1,3 @@
-package primeirosExemplos;
 public class Caneta2 {
     private String modelo;
     private float ponta;

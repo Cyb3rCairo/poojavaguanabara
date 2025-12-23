@@ -1,4 +1,3 @@
-package primeirosExemplos;
 public class Visibilidade {
     public static void main(String[] args) {
 
